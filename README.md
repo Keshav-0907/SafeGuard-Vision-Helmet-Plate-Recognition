@@ -1,4 +1,4 @@
-# CCTV-based Helmet & Number Plate Identification
+# SafeGuard Vision: Helmet & Plate Recognition
 
 ## Project Overview
 
